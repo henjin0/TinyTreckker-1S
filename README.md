@@ -13,7 +13,22 @@ Key features:
 
 # Picture and Construct image
 
-under constructing
+![20240901_195755](https://github.com/user-attachments/assets/cc4ce987-df39-46b2-b520-23af83a92689)
+
+![20240901_195811](https://github.com/user-attachments/assets/f8ae72b5-be91-4dff-9efc-0822d224a6b9)
+
+![20240901_195721](https://github.com/user-attachments/assets/513e95ae-ad1a-4c0e-9558-c470ec604da0)
+
+![20240901_195728](https://github.com/user-attachments/assets/0882d2a4-0c92-4de5-9e62-369674b0f575)
+
+![20240901_195732](https://github.com/user-attachments/assets/6d7bfffc-6891-412a-8109-485056b4ef58)
+
+![20240901_195741](https://github.com/user-attachments/assets/f48266d1-19dc-40da-80cc-500c42d52b4c)
+
+![20240901_195746](https://github.com/user-attachments/assets/02cd52e7-5389-40fb-b32f-745db471fb51)
+
+![20240901_195710](https://github.com/user-attachments/assets/0a4a073e-032f-4daa-9680-33084604d5f1)
+
 
 # BOM(without rc parts)
 
