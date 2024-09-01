@@ -40,10 +40,12 @@ under constructing
 
 | parts | recommended material(FFF) | Qty. |
 | - | - | - |
-| tyre_stopper.stl | PLA, ABS, PETG | 4 |
-| tyre.stl | TPE, TPU | 4 |
-| table.stl | PLA, ABS, PETG | 1 |
-| shaft_gear.stl | PLA, ABS, PETG | 1 |
+| main.stl | PLA, ABS, PETG | 1 |
+| main_under.stl | PLA, ABS, PETG | 1 |
+| arm1.stl | PLA, ABS, PETG | 1 |
+| arm2.stl | PLA, ABS, PETG | 2 |
 | servo_arm.stl | PLA, ABS, PETG | 2 |
+| shaft_gear.stl | PLA, ABS, PETG | 1 |
 | motor_gear.stl | PLA, ABS, PETG | 1 |
-| main_chassis.stl | PLA, ABS, PETG | 1 |
+| tyre_stopper.stl | PLA, ABS, PETG | 2 |
+| tyre.stl | TPE, TPU | 4 |
